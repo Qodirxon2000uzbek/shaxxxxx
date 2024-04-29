@@ -1,137 +1,113 @@
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    font-display: auto;
-    
-  }
-  
-  .main {
-    width: 100%;
-    height: 100%;
-    padding: 0% 1%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
-  }
-  
-  .aheader {
-    padding: 2% 0%;
-    width: 100%;
-    height: 80px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  .aheader img {
-    width: 100%;
-  }
-  
-  .center {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 3% 0%;
-  }
-  
-  .box {
-    width: 99%;
-    max-height: 420px; /* Changed height to max-height */
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  .videoas {
-    width: 99%;
-    max-height: 300px; /* Changed height to max-height */
-    display: flex;
-    justify-content: left;
-    align-items: start;
-    overflow: hidden;
-    border-radius: 10px;
-    flex-direction: column;
-  }
-  
-  .videoas iframe {
-    width: 100%;
-    height: 245px;
-  }
-  
-  .title {
-    width: 100%;
-    height: 50px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  .title span {
-    color: rgb(249, 100, 100);
-  }
-  
-  .footer {
-    position: fixed;
-    bottom: 0; /* Changed top: 90% to bottom: 0 */
-    width: 100%;
-    height: 70px;
-    border: 1px solid;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0% 4%;
-    background-color: white;
-  }
-  
-  .footer img {
-    width: 40px;
-  }
-  .conatiner{
-    width: 100%;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-  }
-  .channels{
-    width: 100%;
-    height: 100%;
-    border: 1px solid;
-    padding: 15% 1%;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-direction: column;
-    gap: 20px;
-  }
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-display: auto;
+}
 
-  .box_ch{
-    width: 270px;
-    height: 120px;
-    background-color: rgb(245, 101, 101);
-    border-radius: 8px;
-    display: flex;
-    flex-direction: column;
-    align-items: start;
-    padding: 2%;
-    gap: 15px;
-    
-  }
-  
-  .box_ch h1{
-    font-size: 15px;
-    color: #fbfbfb;
-    
-  }
-  .box_ch h2{
-    color: white;
-    font-size: 16px;
-  }
-  .box_ch p{
-    font-size: 10px;
-    color: #fbfbfb;
-  }
-  
+.main {
+  width: 100%;
+  height: 100%;
+  padding: 0% 1%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.aheader {
+  padding: 2% 0%;
+  width: 100%;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.aheader img {
+  width: 100%;
+}
+
+.center {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3% 0%;
+}
+
+.box {
+  width: 99%;
+  max-height: 420px; /* Changed height to max-height */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.videoas {
+  width: 99%;
+  max-height: 300px; /* Changed height to max-height */
+  display: flex;
+  justify-content: left;
+  align-items: start;
+  overflow: hidden;
+  border-radius: 10px;
+  flex-direction: column;
+}
+
+.videoas iframe {
+  width: 100%;
+  height: 245px;
+}
+
+.title {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title span {
+  color: rgb(249, 100, 100);
+}
+
+.footer {
+  position: fixed;
+  bottom: 0; /* Changed top: 90% to bottom: 0 */
+  width: 100%;
+  height: 70px;
+  border: 1px solid;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0% 4%;
+  background-color: white;
+}
+
+.footer img {
+  width: 40px;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.box_ch h1 {
+  font-size: 15px;
+  color: #fbfbfb;
+}
+
+.box_ch h2 {
+  color: white;
+  font-size: 16px;
+}
+
+.box_ch p {
+  font-size: 10px;
+  color: #fbfbfb;
+}
