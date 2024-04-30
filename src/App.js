@@ -1,12 +1,19 @@
 import './all.css';
 import downloadImage from './download.png';
+import profile from './a.png'
 
 function App() {
+  alert("Dasturga Xush kelibsiz! ESLATMA USHBU DASTUR DEMO TARZDA ISHLAMOQDA");
+
   return (
     <div className="app">
       <div className="main">
         <div className="aheader">
           <img src={downloadImage} alt="Download" />
+          <div className="profile">
+          <img src={profile} alt="" />
+          </div>
+         
         </div>
         <div className="center">
           <div className="box">
