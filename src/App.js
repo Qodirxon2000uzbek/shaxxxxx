@@ -25,12 +25,12 @@ function ModalExample() {
             </div>
             </div>
             <div className="social">
+              <div className="box_social"></div>
+              <div className="box_social"></div>
               <div className="box_social">
-                <img src={icon} alt="" />
+              <img src={icon} alt="" />
                 <button><a href="https://t.me/eshitikda_live">Telegram Kanal</a></button>
               </div>
-              <div className="box_social"></div>
-              <div className="box_social"></div>
 
            </div>
           </div>
