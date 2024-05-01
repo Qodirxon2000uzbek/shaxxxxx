@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './all.css';
 import downloadImage from './download.png';
 import profile from './a.png';
-import bacround from './bg.jpg'
+import icon from './Telegram_logo.svg.webp'
 
 function ModalExample() {
   const [isOpen, setIsOpen] = useState(false);
@@ -23,12 +23,16 @@ function ModalExample() {
             <button onClick={closeModal} >x</button>
 
             </div>
-          
-           
-           
-            
             </div>
-            
+            <div className="social">
+              <div className="box_social">
+                <img src={icon} alt="" />
+                <button><a href="https://t.me/eshitikda_live">Telegram Kanal</a></button>
+              </div>
+              <div className="box_social"></div>
+              <div className="box_social"></div>
+
+           </div>
           </div>
         </div>
       )}

@@ -27,9 +27,11 @@
 
 .aheader img {
   width: 70%;
+  
 }
 .profile{
   width: 35px;
+  
 }
 .profile img{
   width: 100%;
@@ -128,12 +130,21 @@
   display: flex;
   align-items:start;
   padding: 2%;
-  justify-content: space-between;
   object-fit: cover;
   background-color: #827c7c;
   opacity: 0.9;
+  flex-direction: column;
 }
-.modal-content button{
+
+.top_h{
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.top_h button{
   width: 35px;
   height: 30px;
   background: white;
@@ -145,20 +156,54 @@
   align-items: center;
   justify-content: center;
 }
-.top_h{
-  width: 100%;
-  height: 50px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
 .top_h button:hover{
   background-color: #827c7c;
   color: white;
 }
 .top_h p{
   font-size: 18px;
-  color: white;
+  color: black;
 
 }
+.social{
+  width: 100%;
+  height: 50%;
+  margin: auto 0%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1% 2%;
+}
+.box_social{
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+.box_social img{
+  width: 50px;
+}
+.box_social button{
+  width: 150px;
+  border-radius: 8px;
+  border: none;
+  height: 40px;
+}
+.box_social button a{
+ 
+  text-decoration: none;
+  color: black;
+}
+.box_social button:hover{
+  background-color: #100d0d;
+ 
+}
+.box_social button a:hover{
+  color: white;
+}
+
+
 
