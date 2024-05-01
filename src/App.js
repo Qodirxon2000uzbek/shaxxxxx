@@ -17,10 +17,13 @@ function ModalExample() {
       {isOpen && (
         <div className="modal">
           <div className="modal-content">
-            
+            <img src={bacround} alt="" />
+            <div className="bg">
             <p>Ushbu dastur sinov rejimida ishlamoqda!</p>
             <div className="buttonss">
             <button onClick={closeModal} >Yopish</button>
+            </div>
+           
            
            
             
