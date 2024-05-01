@@ -22,11 +22,7 @@ function ModalExample() {
             <p>Ushbu dastur sinov rejimida ishlamoqda!</p>
             <div className="buttonss">
             <button onClick={closeModal} >Yopish</button>
-            </div>
-           
-           
-           
-            
+            </div>            
             </div>
             
           </div>
