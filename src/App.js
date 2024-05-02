@@ -3,12 +3,17 @@ import './all.css';
 import downloadImage from './download.png';
 import profile from './a.png';
 import icon from './Telegram_logo.svg.webp'
+import yt from './youtube.png'
+import pr from './programm.png'
 
 function ModalExample() {
   const [isOpen, setIsOpen] = useState(false);
 
   const openModal = () => setIsOpen(true);
   const closeModal = () => setIsOpen(false);
+
+
+  
 
   return (
     <>
@@ -25,12 +30,18 @@ function ModalExample() {
             </div>
             </div>
             <div className="social">
-              <div className="box_social"></div>
-              <div className="box_social">
+            <div className="box_social">
               <img src={icon} alt="" />
                 <button><a href="https://t.me/eshitikda_live">Telegram Kanal</a></button>
               </div>
-              <div className="box_social"></div>
+              <div className="box_social">
+              <img src={yt} alt="" />
+                <button><a href="https://www.youtube.com/@EshitikdaLive">YouTube kanal</a></button>
+              </div>
+              <div className="box_social">
+              <img src={pr} alt="" />
+                <button  >Dastur haqida!</button>
+              </div>
 
            </div>
           </div>
