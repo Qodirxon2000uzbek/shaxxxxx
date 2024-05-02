@@ -65,7 +65,7 @@ function App() {
         <div className="center">
           <div className="box">
             <div className="videoas">
-              <iframe src="https://player.castr.com/live_ea0e16c006d411efa274cd81b5d28793" frameborder="0" scrolling="no" allow="autoplay" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+            <iframe src="https://player.castr.com/live_ea0e16c006d411efa274cd81b5d28793" width="100%" frameborder="0" scrolling="no" allow="autoplay" allowfullscreen  webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
             </div>
             <div className="title">
               <h3>BAVARYA <span>VS</span> REAL MADRID</h3>
