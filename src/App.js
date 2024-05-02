@@ -5,6 +5,7 @@ import profile from './a.png';
 import icon from './Telegram_logo.svg.webp'
 import yt from './youtube.png'
 import pr from './programm.png'
+import Chat from './chatsss/chatapp'
 
 function ModalExample() {
   const [isOpen, setIsOpen] = useState(false);
@@ -70,12 +71,15 @@ function App() {
             <div className="title">
               <h3>GROUP 1 <span>VS</span> GROUP 2 </h3>
               <div className="tarkib">
-                {/* IZOH : JALOLDIN MASHARIPOV asosiy tarkibda! */}
+                
               </div>
             
             </div>
           </div>
         </div>
+
+        
+        <Chat />
       </div>
     </div>
   );
