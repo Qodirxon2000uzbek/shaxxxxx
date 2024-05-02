@@ -79,7 +79,7 @@ function App() {
         </div>
 
         
-        <Chat />
+       
       </div>
     </div>
   );
