@@ -82,6 +82,13 @@
 .title span {
   color: rgb(249, 100, 100);
 }
+.tarkib{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
 
 .footer {
   position: fixed;
