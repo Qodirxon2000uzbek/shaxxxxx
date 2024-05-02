@@ -68,7 +68,10 @@ function App() {
             <iframe src="https://player.castr.com/live_ea0e16c006d411efa274cd81b5d28793" width="100%" frameborder="0" scrolling="no" allow="autoplay" allowfullscreen  webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
             </div>
             <div className="title">
-              <h3>BAVARYA <span>VS</span> REAL MADRID</h3>
+              <h3>TREACTOR <span>VS</span> ISTIQLOL </h3>
+              <div className="tarkib">
+                IZOH : JALOLDIN MASHARIPOV asosiy tarkibda!
+              </div>
             
             </div>
           </div>
