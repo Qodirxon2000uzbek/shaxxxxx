@@ -66,10 +66,10 @@ function App() {
         <div className="center">
           <div className="box">
             <div className="videoas">
-            <iframe src="https://player.castr.com/live_ea0e16c006d411efa274cd81b5d28793" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+            <iframe src="https://player.castr.com/live_ea0e16c006d411efa274cd81b5d28793" frameborder="0" allow="autoplay" allowfullscreen allow='fullscreen' ></iframe>
             </div>
             <div className="title">
-              <h3>CSKA<span>VS</span>ZENIT </h3>
+              <h3>CSKA 0 <span>:</span> 0 ZENIT </h3>
               <div className="tarkib">
                 
               </div>
