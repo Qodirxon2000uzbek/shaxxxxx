@@ -69,7 +69,7 @@ function App() {
             <iframe src="https://player.castr.com/live_abe7e1c0095711efb2419b6c9355e58a" width="100%" allow='fullscreen' allow="autoplay" allowfullscreen  webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
             </div>
             <div className="title">
-              <h3>UZBEKISTAN 0 <span>:</span> 0 YAPONYA </h3>
+              <h3>UZBEKISTAN 0 <span>:</span> 0 JAPANESE </h3>
               <div className="tarkib">
                 
               </div>
