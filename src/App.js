@@ -66,7 +66,7 @@ function App() {
         <div className="center">
           <div className="box">
             <div className="videoas">
-            <iframe src="https://player.castr.com/live_abe7e1c0095711efb2419b6c9355e58a"  allow="fullscreen" allow="autoplay" allowfullscreen  webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+            <iframe src="https://player.castr.com/live_abe7e1c0095711efb2419b6c9355e58a" allow="autoplay" allowfullscreen allow="fullscreen" ></iframe>
             </div>
             <div className="title">
               <h3>UZBEKISTAN 0 <span>:</span> 0 JAPANESE </h3>
