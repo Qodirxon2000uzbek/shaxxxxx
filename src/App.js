@@ -83,10 +83,11 @@ function App() {
                   <h2>LOKOMATIV</h2>
                   <p>NIgmatilla Utkirov</p>
                 </div> */}
-                <a href="https://t.me/Rich_stavka_Linebet_STAVKA">
+                
+                {/* <a href="https://t.me/Rich_stavka_Linebet_STAVKA">
                   <h4>LINEBETDA O'ZININGZNI SINAB KO'RING!</h4>
                 <img src={Rek} alt="" />
-                  </a>  
+                  </a>   */}
 
               </div>
             
