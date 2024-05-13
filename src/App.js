@@ -66,12 +66,22 @@ function App() {
         <div className="center">
           <div className="box">
             <div className="videoas">
-            <iframe src="https://player.castr.com/live_abe7e1c0095711efb2419b6c9355e58a" allow="autoplay" allowfullscreen allow="fullscreen" ></iframe>
+            <iframe src="https://player.castr.com/live_4e6ff570112f11ef91f763d9afd8851b" allow="autoplay" allowfullscreen allow="fullscreen" ></iframe>
+
             </div>
             <div className="title">
-              <h3>NAVBAHOR 0 <span>:</span> 0 LOKOMATIV </h3>
+              <h3>NASAF 0 <span>:</span> 0 BUNYODKOR </h3>
               <div className="tarkib">
                 
+                {/* <div className="right">
+                  <h2>NAVBAHOR</h2>
+                  <p>O'tkir Yusupov</p>
+                    
+                </div>
+                <div className="left">
+                  <h2>LOKOMATIV</h2>
+                  <p>NIgmatilla Utkirov</p>
+                </div> */}
               </div>
             
             </div>
