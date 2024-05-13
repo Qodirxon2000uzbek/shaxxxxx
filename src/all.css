@@ -87,11 +87,22 @@ body{
 }
 .tarkib{
   width: 100%;
+  height: 500px;
+  padding: 2%;
+  margin-top: 40%;
+  /* border: 1px solid; */
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
-  gap: 40px;
+  gap: 50px;
+}
+.tarkib img{
+  width: 100%;
+  border-radius: 8px;
+}
+.tarkib a{
+  text-decoration: none;
 }
 
 .footer {
