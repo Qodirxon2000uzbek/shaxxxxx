@@ -85,10 +85,7 @@ function App() {
                 </div> */}
                 
                 <a href="https://t.me/vaucer_saller">
-                  <h4>BIZ BILAN HAMKORLIK QILMOQCHIMISZ?
-                    Bu yerga bosing!
-
-                  </h4>
+                
                 <img src={Rek} alt="" />
                   </a>  
 
