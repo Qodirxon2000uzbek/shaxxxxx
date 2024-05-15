@@ -6,7 +6,7 @@ import icon from './Telegram_logo.svg.webp'
 import yt from './youtube.png'
 import pr from './programm.png'
 import Chat from './chatsss/chatapp'
-import Rek from './photo_2024-05-13_21-32-58.jpg'
+import Rek from './Red Black Creative Modern Business Card, копия.jpg'
 
 function ModalExample() {
   const [isOpen, setIsOpen] = useState(false);
@@ -84,10 +84,13 @@ function App() {
                   <p>NIgmatilla Utkirov</p>
                 </div> */}
                 
-                {/* <a href="https://t.me/Rich_stavka_Linebet_STAVKA">
-                  <h4>LINEBETDA O'ZININGZNI SINAB KO'RING!</h4>
+                <a href="@vaucher_saller">
+                  <h4>BIZ BILAN HAMKORLIK QILMOQCHIMISZ?
+                    Bu yerga bosing!
+
+                  </h4>
                 <img src={Rek} alt="" />
-                  </a>   */}
+                  </a>  
 
               </div>
             
