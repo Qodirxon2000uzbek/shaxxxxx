@@ -84,7 +84,7 @@ function App() {
                   <p>NIgmatilla Utkirov</p>
                 </div> */}
                 
-                <a href="@vaucher_saller">
+                <a href="https://t.me/vaucer_saller">
                   <h4>BIZ BILAN HAMKORLIK QILMOQCHIMISZ?
                     Bu yerga bosing!
 
