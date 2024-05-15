@@ -6,7 +6,7 @@ import icon from './Telegram_logo.svg.webp'
 import yt from './youtube.png'
 import pr from './programm.png'
 import Chat from './chatsss/chatapp'
-import Rek from './Red Black Creative Modern Business Card, копия.jpg'
+
 
 function ModalExample() {
   const [isOpen, setIsOpen] = useState(false);
@@ -84,11 +84,7 @@ function App() {
                   <p>NIgmatilla Utkirov</p>
                 </div> */}
                 
-                <a href="https://t.me/vaucer_saller">
-                
-                <img src={Rek} alt="" />
-                  </a>  
-
+               
               </div>
             
             </div>

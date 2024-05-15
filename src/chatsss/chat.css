@@ -1,0 +1,16 @@
+.cardss{
+    width: 100%;
+    height: 500px;
+     padding: 1%; 
+    margin-top: -70%; 
+    /* border: 1px solid; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 50px;
+  }
+  .cardss img{
+    width: 100%;
+    border-radius: 8px;
+  }
