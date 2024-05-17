@@ -92,7 +92,7 @@ function App() {
         </div>
 
         
-       <Chat />
+       {/* <Chat /> */}
       </div>
     </div>
   );
